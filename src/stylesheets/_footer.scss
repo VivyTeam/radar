@@ -1,0 +1,19 @@
+#footer{
+  text-align: center;
+  clear: both;
+  padding-top: 200px;
+
+  .footer-content {
+    width: 50%;
+    margin: 0 auto;
+
+    p {
+      // padding-top: 20px;
+      font-size: $baseFont;
+      font-weight: $baseWeight;
+      text-align: left;
+      font-family: 'Aron Grotesque Regular';
+    }
+
+  }
+}
